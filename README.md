@@ -12,7 +12,7 @@
 |  Lab                                              | Topic                                                                 | 
 |---------------------------------------------------|-----------------------------------------------------------------------|
 | [HW1](./HW1/)                                     | LSE、Steepest descent、Newton method                                   |
-| [HW2](./HW2/)                                     | Online learning、Naive bayes calssifier                                | 
+| [HW2](./HW2/)                                     | Online learning、Naive bayes classifier                                | 
 | [HW3](./HW3/)                                     | Random data generator、Sequential estimator、Bayesian linear regression| 
 | [HW4](./HW4/)                                     | Logistic regression、EM algorithm                                      | 
 | [HW5]                                             |                                | 
